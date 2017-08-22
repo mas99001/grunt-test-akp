@@ -1,0 +1,19 @@
+{
+  "name": "grunt-test-akp",
+  "version": "0.0.0",
+  "description": "testing my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mas99001/grunt-test-akp.git"
+  },
+  "author": "Aditya Kumar <aditya.podia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mas99001/grunt-test-akp/issues"
+  },
+  "homepage": "https://github.com/mas99001/grunt-test-akp#readme"
+}
