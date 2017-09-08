@@ -1,7 +1,7 @@
 {
   "name": "grunt-test-akp",
   "version": "0.0.0",
-  "description": "testing my skills",
+  "description": "[DEPRECATED] testing my skills",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
